@@ -29,7 +29,7 @@ ________________________________________________________________________________
 Projeto de análise exploratória de dados de um coorte sobre a empresa Yafisha.
 
 ## 📌 Objetivo
-Investigar qual dos planos gera mais receita para a empresa, com o objetivo de ajustar o orçamento de publicidade.
+Ajudar a empresa a otimizar suas despesas com marketing definindo estratégias de alocação e identificando os canais e períodos mais eficazes para aplicação dos recursos, a fim de maximizar o retorno sobre o investimento.
 
 ## 🛠️ Ferramentas e Tecnologias
 - Python (Pandas, Matplotlib, Seaborn)
@@ -38,13 +38,9 @@ Investigar qual dos planos gera mais receita para a empresa, com o objetivo de a
 
 ## 🔍 Etapas da análise
 1. Limpeza e tratamento dos dados (valores ausentes e duplicados)
-2. Análise descritiva
+2. Análise exploratória
 3. Correlações e insights principais com gráficos
-4. Testes de hipóteses
-5. Conclusões
-
-## 📊 Dashboard (Tableau Public)
-[Megaline Dashboard](https://public.tableau.com/app/profile/pedro.bocchini/viz/megaline-dashboard/Painel1?publish=yes)
+4. Conclusões e recomendações
 
 ## 📁 Arquivos
-- `megaline-incomes-analysis(português).ipynb` → arquvivo notebook com todos os códigos e visualizações
+- `yafisha-cohort-analysis(portuguese).ipynb` → arquvivo notebook com todos os códigos e visualizações
