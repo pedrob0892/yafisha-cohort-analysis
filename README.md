@@ -2,10 +2,10 @@
 
 # Yafisha Cohort Analysis 
 
-Exploratory data analysis project for Yafisha.
+Exploratory cohort analysis project for Yafisha company.
 
 ## 📌 Objective
-Investigate which plan generates the most revenue for the company, with the goal of adjusting marketing budgets.
+Analyse a cohort and help the company optimize its marketing expenses by defining strategies and identifying the most effective channels and periods for resources' applications, in order to maximize the return of the investment.
 
 ## 🛠️ Tools and Technologies
 - Python (Pandas, Matplotlib, Seaborn)
@@ -14,23 +14,19 @@ Investigate which plan generates the most revenue for the company, with the goal
 
 ## 🔍 Analysis steps
 1. Data cleaning/treatment of missing and duplicated values
-2. Descriptive analysis
+2. Exploratory analysis
 3. Correlations and key insights with graphs 
-4. Hypothesis Tests
-5. Conclusions
-
-## 📊 Dashboard (Tableau Public)
-[Megaline Dashboard](https://public.tableau.com/app/profile/pedro.bocchini/viz/megaline-dashboard/Painel1?publish=yes)
+4. Conclusions and recommendations
 
 ## 📁 Files
-- `megaline-incomes-analysis(english).ipynb` → notebook with all codes and visualizations
+- `yafisha-cohort-analysis(english).ipynb` → notebook with all codes and visualizations
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________________
 (PORTUGUÊS)
 
-# Megaline Income Analysis 
+# Análise de Coorte da Yafisha 
 
-Projeto de análise exploratória de dados sobre a empresa Megaline.
+Projeto de análise exploratória de dados de um coorte sobre a empresa Yafisha.
 
 ## 📌 Objetivo
 Investigar qual dos planos gera mais receita para a empresa, com o objetivo de ajustar o orçamento de publicidade.
